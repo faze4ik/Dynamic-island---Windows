@@ -1,0 +1,29 @@
+﻿# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Build artifacts
+build/
+dist/
+*.zip
+*.7z
+*.rar
+
+# Logs and temporary files
+*.log
+install.log
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# System files
+.DS_Store
